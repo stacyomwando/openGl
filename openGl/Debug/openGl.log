@@ -1,0 +1,3 @@
+﻿  CAT.cpp
+C:\Users\Stace Omwando\source\repos\openGl\openGl\CAT.cpp(79,34): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  openGl.vcxproj -> C:\Users\Stace Omwando\source\repos\openGl\Debug\openGl.exe
